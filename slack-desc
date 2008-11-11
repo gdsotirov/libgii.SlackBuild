@@ -1,0 +1,11 @@
+libgii: LibGII (GGI's General Input Interface)
+libgii:
+libgii: LibGII is intended to be to input what LibGGI library is to graphics.
+libgii: The goal of LibGII is to provide a single easy to use, but yet
+libgii: powerful, API for all possible input sources.
+libgii: The main purpose of LibGII release is to accompany LibGGI release,
+libgii: but it is used also as a standalone library.
+libgii:
+libgii:
+libgii:
+libgii: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
